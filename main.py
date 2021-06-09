@@ -1,6 +1,6 @@
 '''
 Submitted By:
--> Sauhardya Satabdi Pradhan (Betn1cs18062)
+-> Sauhardya Satabdi Pradhan
 
 '''
 
